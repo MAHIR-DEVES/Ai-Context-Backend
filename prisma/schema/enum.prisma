@@ -1,0 +1,14 @@
+enum Role {
+  STUDENT
+  ADMIN
+  TUTOR
+}
+
+enum STATUS {
+  ACTIVE
+  INACTIVE
+  BLOCKED
+}
+
+
+
